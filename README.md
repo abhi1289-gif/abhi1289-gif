@@ -94,6 +94,21 @@ I am also building a strong foundation in:
 
 ---
 
+# 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/Abhishek_12_89/">
+    <img src="https://leetcard.jacoblin.cool/Abhishek_12_89?theme=dark&ext=heatmap" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Abhishek_12_89/">
+    <img src="https://img.shields.io/badge/LeetCode-Abhishek__12__89-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+
 # 🚀 Featured Projects
 
 ## 🎓 CampusConnect
