@@ -205,6 +205,23 @@ It combines **rule-based analysis with Google Gemini AI** to determine whether e
 
 ---
 
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1289-gif&theme=github-dark&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi1289-gif&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1289-gif&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
