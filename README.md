@@ -216,7 +216,7 @@ It combines **rule-based analysis with Google Gemini AI** to determine whether e
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi1289-gif&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi1289-gif&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1289-gif&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
@@ -225,8 +225,9 @@ It combines **rule-based analysis with Google Gemini AI** to determine whether e
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhi1289-gif&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=abhi1289-gif&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
