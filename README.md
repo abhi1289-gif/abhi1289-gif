@@ -1,6 +1,32 @@
-# Hi there, I'm Abhishek Sonparote 👋
+<div align="center">
 
-### 💻 Computer Science Student | Full-Stack Developer | Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=1200&color=00D9A6&center=true&vCenter=true&width=850&height=60&lines=Hi+I'm+Abhishek+Sonparote+%F0%9F%91%8B;I+am+a+Full+Stack+Developer+%F0%9F%92%BB;I+am+a+Computer+Science+Student+%F0%9F%8E%93;I+love+building+real-world+applications+%F0%9F%9A%80&repeat=true" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=19&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=Java+%7C+C%2B%2B+%7C+JavaScript;React+%7C+Node.js+%7C+Express.js;DSA+%7C+DBMS+%7C+OS+%7C+Computer+Networks;Exploring+AI%2C+APIs+%26+System+Design&repeat=true" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/abhishek-sonparote-868985377/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abhi1289-gif">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Abhishek_12_89/">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
 
 I'm a Computer Science student passionate about **software development, problem solving, and building real-world applications**.
 
@@ -8,19 +34,17 @@ I work mainly with **Java, C++, JavaScript, React, Node.js, and Express.js**, an
 
 I enjoy taking an idea, turning it into a working application, and learning from every problem I encounter along the way.
 
----
-
-## 🚀 About Me
+### 🚀 What I Do
 
 - 🎓 Computer Science Student
-- 💻 Interested in Full-Stack & Backend Development
-- 🧠 Actively practicing Data Structures & Algorithms
-- 🤖 Exploring AI-powered applications
-- 🌐 Building applications using React, Node.js & Express
-- 🗄️ Working with MySQL and REST APIs
-- 🔌 Experience with real-time applications using Socket.IO
-- 🔍 Interested in Web Scraping, APIs & automation
-- 🛠️ I learn by building real projects
+- 💻 Full-Stack & Backend Development
+- 🧠 Data Structures & Algorithms
+- 🤖 AI-powered Applications
+- 🌐 React, Node.js & Express.js
+- 🗄️ MySQL & REST APIs
+- 🔌 Real-time Applications with Socket.IO
+- 🔍 Web Scraping & Data Extraction
+- 🛠️ Learning by Building Real Projects
 
 ---
 
@@ -53,14 +77,10 @@ I enjoy taking an idea, turning it into a working application, and learning from
 ## 🤖 AI & Data Processing
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Scraping-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
-
-- Google Gemini API
-- Web Scraping
-- Evidence Extraction
-- AI-assisted Analysis
-- REST APIs
 
 ## 🔧 Tools & Platforms
 
@@ -75,13 +95,14 @@ I enjoy taking an idea, turning it into a working application, and learning from
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/Cheerio-E88C1A?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Multer-Node.js-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/bcrypt-Node.js-orange?style=for-the-badge" />
 </p>
 
 ---
 
 # 🧠 Computer Science
 
-I am also building a strong foundation in:
+I am building a strong foundation in:
 
 - 📌 Data Structures & Algorithms
 - 📌 Object-Oriented Programming
@@ -108,6 +129,7 @@ I am also building a strong foundation in:
   </a>
 </p>
 
+---
 
 # 🚀 Featured Projects
 
@@ -212,7 +234,7 @@ It combines **rule-based analysis with Google Gemini AI** to determine whether e
 - 🏗️ System Design
 - 🌐 Full-Stack Development
 - 🔐 Web Application Security
-- ⚡ Building scalable applications
+- ⚡ Building Scalable Applications
 
 ---
 
